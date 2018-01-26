@@ -1,6 +1,6 @@
 Mura & Vue.js: A Love Story
 
-These are the code example modules for the "Mura & Vue.js: A Love Story" Webinar & Talk.
+These are the code example modules for the "Mura & Vue.js: A Love Story" Webinar & talk.
 
 Note that *Mura 7.1 is required* for these examples to work.
 
